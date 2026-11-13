@@ -28,13 +28,6 @@ Self-learning developer, constantly exploring, experimenting, and creating thing
 ![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white)
 
-### Projects
-
-- [Raabta](https://github.com/ruqiyaa/web-chat) — Real-time chat application.
-- [Finance Tracker](https://github.com/ruqiyaa) — Personal finance dashboard.
-- [Connect Four](https://github.com/ruqiyaa/connect4) — Multiplayer game.
-- [Portfolio](https://github.com/ruqiyaa/portfolio) — My personal portfolio.
-
-### Connect
+### Let's connect
 
 [LinkedIn](https://www.linkedin.com/in/ruqiya-syeda/) · [Portfolio](https://ruqiyasyeda.netlify.app/)
